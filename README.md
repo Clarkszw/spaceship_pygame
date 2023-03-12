@@ -1,1 +1,3 @@
-# spaceship_pygame
+# Spaceship with pygame
+
+A project for beginners to get familiar with pygame
